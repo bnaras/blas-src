@@ -40,7 +40,7 @@ will be licensed according to the terms given in [LICENSE.md](LICENSE.md).
 [netlib]: http://www.netlib.org/
 [openblas]: http://www.openblas.net/
 
-[build-img]: https://github.com/blas-lapack-rs/blas-src/workflows/build/badge.svg
+[build-img]: https://github.com/blas-lapack-rs/blas-src/actions/workflows/build.yml/badge.svg
 [build-url]: https://github.com/blas-lapack-rs/blas-src/actions/workflows/build.yml
 [documentation-img]: https://docs.rs/blas-src/badge.svg
 [documentation-url]: https://docs.rs/blas-src
